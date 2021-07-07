@@ -13,7 +13,7 @@ Hello, I'm a developer interested in Backend and developing your life.
 
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/Tech%20blog-black?style=flat&logo=github&link=https://velog.io/@hayejun1013)](https://velog.io/@hayejun1013)
+[![Velog Badge](http://img.shields.io/badge/Velog-72d4ac?style=flat&link=https://velog.io/@hayejun1013)](https://velog.io/@hayejun1013)
 [![Instagram Badge](http://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/tedjunny/)](https://www.instagram.com/tedjunny/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=gmail&logoColor=white&link=mailto:hayejun1013@gmail.com)](mailto:hayejun1013@gmail.com)
 </div>
