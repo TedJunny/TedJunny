@@ -2,8 +2,8 @@
 
 Hello, I'm a developer interested in Backend and developing your life.
 
-- 💻 I worked as a Unity engineer
-- 🌱 I'm currently learning Python & Django
+- 💻 I worked as a software developer with Unity
+- 🌱 I'm currently learning backend area with python and javascript
 
 #### </br>Language and Tools
 [![Python Badge](http://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://www.python.org/)
