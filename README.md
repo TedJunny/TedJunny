@@ -2,8 +2,8 @@
 
 Hello, I'm a developer interested in Backend and developing your life.
 
-- 💻 I worked as a software developer with Unity
-- 🌱 I'm currently working as backend developer with TypeScript
+- 💻 I started my career as a app client developer with Unity
+- 🌱 I'm currently working as a backend developer
 
 <br>
 
@@ -23,6 +23,6 @@ Hello, I'm a developer interested in Backend and developing your life.
 
 #### 😎 &nbsp; More About Me
   
-[![Velog Badge](http://img.shields.io/badge/Velog-72d4ac?style=flat&logo=storyblok&logoColor=white)](https://velog.io/@hayejun1013)
+[![Tistory Badge](http://img.shields.io/badge/Tistory-000000?style=flat&logo=storyblok&logoColor=white)](https://tedjunny.tistory.com/)
 [![Instagram Badge](http://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/tedjunny/)](https://www.instagram.com/tedjunny/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ea4335?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgcU3CBa9OeUFB1RhJPHLRw)
